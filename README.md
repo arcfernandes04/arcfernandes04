@@ -17,7 +17,7 @@ I'm a third year computer science and biochemistry student at the University of 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Repos/Projects
-*I know my GitHub is pretty sparse, so please feel free to get in contact with me to talk more about my past/potential projects! 
+*I know my GitHub is pretty empty, so please feel free to get in contact with me to talk more about my past/potential projects! 
 There are some that I haven't listed here because some resources were licensed for academic use only. And, I have some cool ideas for projects that I just don't quite have the time to get stuck into yet :)*
 * ANDIE - A non-destructive image editor built for a group project assignment. ANDIE was built using Java, from a base project provided by our lectures. Although a great starting point, we found that building on top of, and understanding and solving issues within this existing code as a group was a valuable learning experience in collaborating with other programmers, both within and external to your team.
 <!--
