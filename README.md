@@ -1,8 +1,13 @@
 # Hey, I'm Abby :D
 **This readme is a work in progress 😅**
 
+Hi! I’m a third-year Computer Science and Biochemistry student at the University of Otago, and an aspiring software developer. 
 
-I'm a third year computer science and biochemistry student at the University of Otago with a keen interest in the mechanisms of how things work!
+
+Although this is a pretty broad aspiration, I’m sticking with it, because I really just enjoy the act of being able to create and problem-solve using code.
+
+
+I’m sure I’ll find my niche along the way!
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
